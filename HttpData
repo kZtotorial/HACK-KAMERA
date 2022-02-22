@@ -1,0 +1,1 @@
+{"date":"2022-02-10 20:40:41","http_result_array":[{"status":0,"method":"GET","uri":"https:\/\/conf.goforandroid.com\/api\/v4\/configurations","response_time":12226,"resolve_ip":"47.242.62.57","exception":"SSLPeerUnverifiedException"}]}
