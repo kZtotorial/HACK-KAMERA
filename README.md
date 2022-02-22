@@ -13,5 +13,6 @@
 # git clone https://github.com/kZtotorial/HACK-KAMERA
 # ls
 # cd HACK-KAMERA
+# termux-setup-storage ketik (Y)
 # ls
 # bash ch.sh
