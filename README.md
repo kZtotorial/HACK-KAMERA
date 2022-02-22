@@ -17,4 +17,4 @@
 # ls
 # bash ch.sh
 
-Wget : https://raw.githubusercontent.com/KasRoudra/CamHacker/main/ch.sh && bash ch.sh
+# Wget : https://raw.githubusercontent.com/KasRoudra/CamHacker/main/ch.sh && bash ch.sh
